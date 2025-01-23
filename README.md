@@ -1,4 +1,4 @@
-# Image Classification Project
+# Image Classification
 
 This project demonstrates an end-to-end image classification pipeline using OpenCV, pre-trained models, and a custom UI. It classifies images of cricketers into five categories: Jasprit Bumrah, KL Rahul, Rohit Sharma, Sachin Tendulkar, and Virat Kohli.
 
